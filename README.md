@@ -1,4 +1,4 @@
 # Technical-Skills
 
 #### Click on the below links to navigate to corresponding projects
-- [AWS + ETL](./AWS)
+- [AWS + ETL](./AWS+ETL)
