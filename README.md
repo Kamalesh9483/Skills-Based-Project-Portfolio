@@ -1,4 +1,4 @@
-# Technical-Skills
+# Skills-Based Project Portfolio
 
 #### Click on the below links to navigate to corresponding projects
 
