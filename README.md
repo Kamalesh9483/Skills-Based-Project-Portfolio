@@ -10,3 +10,4 @@
 6. [Generative AI (GenAI)](./GenerativeAI)
 7. [Image & Video Processing](./Image+VideoProcessing)
 8. [ReinforcementLearning](./ReinforcementLearning)
+9. [Generative AI + IoT](./GenerativeAI+IoT)
