@@ -2,7 +2,7 @@
 
 1. [Retrieval-Augmented Generation using Microsoft GraphRAG](https://github.com/Kamalesh9483/GraphRAG_microsoft.git)
 2. [News Reasearcher & Writer from online using CrewAI Agents, SerperDevTool & gemini-1.5-flash LLM](https://github.com/Kamalesh9483/CrewAI_Gemini_AI_Agents.git)
-3. [AG App with Vector Store DB using Chromadb and embedding using nomic-embed-text, GROQ (Mixtral model) for inferencing on Html content](https://github.com/Kamalesh9483/RAG-App-with-Vector-Store-DB-using-Chromadb-and-embedding-using-nomic-embed-text-GROQ-Mixtral-model.git)
+3. [RAG App with Vector Store DB using Chromadb and embedding using nomic-embed-text, GROQ (Mixtral model) for inferencing on Html content](https://github.com/Kamalesh9483/RAG-App-with-Vector-Store-DB-using-Chromadb-and-embedding-using-nomic-embed-text-GROQ-Mixtral-model.git)
 4. [Video Summarizer AI App using Google Gemini and Phidata](https://github.com/Kamalesh9483/VideoAISummarizer_using_GoogleGemini_Phidata_Agent.git)
 5. [Audio to Content creation app using Mistral_Groq](https://github.com/Kamalesh9483/Audio_to_Content_creation_app_using_Mistral_Groq.git)
 6. [Multi Programming Code Assistant to generate code based on user input using Ollama, codellama & gradeio](https://github.com/Kamalesh9483/Multi_Programming_Code_Assistant_Codellama_ollama_gradeio.git)
